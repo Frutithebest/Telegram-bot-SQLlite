@@ -1,0 +1,1 @@
+Hello, I am a bot that will help you keep track of goods, since you are a new user, lets create a table with goods.To start, enter the first product in the format "product_name"/"product_price"/"quantity_of_product_in_store",that is, the entry should look like cool_product/23000/30.
